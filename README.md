@@ -23,10 +23,3 @@ A simple web-based toast notification application. This project allows users to 
 1. Open the **index.html** file in your browser.
 2. Click on the **Success**, **Error**, or **Invalid** button to display the corresponding toast notification.
 3. The notification will appear at the bottom right and disappear after a few seconds.
-
-## Technologies Used
-
-- **HTML5**: Structure of the webpage.
-- **CSS3**: Styling and animations.
-- **JavaScript**: Logic to display and manage notifications.
-- **Font Awesome**: Used for icons in notifications.
